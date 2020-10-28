@@ -1,6 +1,6 @@
 var firebaseConfig = {
     apiKey: "AIzaSyC0hWE4guEcI63vPVvQv9vSpiCY37aXgtw",
-    authDomain: "mirea-form-phieubaucu.firebaseapp.com",
+    authDomain: "dinhcuong.me/mirea",
     databaseURL: "https://mirea-form-phieubaucu.firebaseio.com",
     projectId: "mirea-form-phieubaucu",
     storageBucket: "mirea-form-phieubaucu.appspot.com",
